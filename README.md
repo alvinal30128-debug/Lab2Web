@@ -1,4 +1,4 @@
-<img width="978" height="157" alt="image" src="https://github.com/user-attachments/assets/7ff40839-b7d0-4f2d-856d-30055340e3c7" /># Lab2Web
+# Lab2Web
 Praktikum Pemrograman Web 2
 Berikut ini adalah hasil screenshot beserta penjelasannya
 
